@@ -1,2 +1,5 @@
 #!/bin/sh
-exec /bin/bash -c "trap : TERM INT; sleep infinity & wait"
+while true
+do
+    sleep 10
+done
