@@ -2092,8 +2092,8 @@ $.extend($.ui.rlightbox, {
 		sets: {},
 		data: {
 			minimalLightboxSize: {
-				width: 300,
-				height: 300
+				width: 500,
+				height: 500
 			},
 			lightboxPadding: 12,
 			headerHeight: 57,
