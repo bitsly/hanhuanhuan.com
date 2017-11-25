@@ -127,7 +127,7 @@ h4.subHeading{
 }
 
 .topmar{
-	margin-top:20px;
+	margin-top:0px;
 }
 
 
@@ -795,12 +795,12 @@ span.hoverBox a{
 }
 
 span.hoverBox .smallIcon{
-	width: 94px;
+	width: 42px;
 	margin: 0px auto;
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-left: -47px;
+	margin-left: -20px;
 	margin-top: -21px;
 }
 
