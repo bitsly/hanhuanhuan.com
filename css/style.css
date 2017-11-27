@@ -686,6 +686,14 @@ header{
 	padding-bottom:90px ;
 }
 
+.protfolio h2{
+	color:#ff675f;
+}
+.protfolio p{
+	color:#84868d;
+	line-height:18px;
+}
+
 .protfolio .heading p{
 	padding-bottom:41px;
 }
