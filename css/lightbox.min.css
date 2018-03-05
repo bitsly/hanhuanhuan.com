@@ -45,10 +45,10 @@
 #ui-lightbox-panorama-icon {
 	cursor:pointer;
 	height:32px;
-	right: 40px;
+	right: 50px;
 	width:32px;
 	position:absolute;
-	top:20px;
+	top:14px;
 	z-index:110;
 }
 .ui-lightbox-panorama-icon-expand {
@@ -108,8 +108,12 @@
 #ui-lightbox-button-close {
 	line-height:20px;
 	position:absolute;
-	top:17px;
+	top:14px;
 	right:5px;
+}
+#ui-lightbox-button-close span {
+	height: 32px;
+	width: 32px;
 }
 .ui-lightbox-button {
 	cursor:pointer;

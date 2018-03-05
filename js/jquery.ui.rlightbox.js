@@ -1458,7 +1458,7 @@ $.extend($.ui.rlightbox, {
 			if ( _isPanoramaEnabled && _panoramaOn === false ) {
 				this.panoramaExpand( event );
 			} else if ( _isPanoramaEnabled && _panoramaOn ) {
-				this.panoramaShrink( event );			
+				this.panoramaShrink( event );
 			}
 		},
 		
